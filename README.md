@@ -1,4 +1,4 @@
-Made BY VATSAL AGRAWAL
+# Made BY VATSAL AGRAWAL
 
 # Pi-Calculation-Accurately-With-and-Without-P-thread-Library
 PI- 3.14 calculation using Leibniz and Euler Method with p thread library and normal and done comparison between them
